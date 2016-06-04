@@ -1,0 +1,23 @@
+{
+  "name": "ceridian_manager",
+  "authors": [
+    "Zeeshan Khan <zkhan1093@gmail.com>"
+  ],
+  "description": "to manage ceridian passwords and account status",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.2",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.37"
+  }
+}
