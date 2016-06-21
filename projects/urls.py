@@ -18,6 +18,5 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^hisab/',include('hisab.urls')),
-    url(r'^cm/',include('ceridian_manager.urls')),
+    #add your apps urls here
 ]
