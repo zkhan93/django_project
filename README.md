@@ -1,5 +1,5 @@
 # Django Project
-A central django project and setting to host all my Django apps
+Boilerplate code forDjango projects
 
 to install add a app to this project you need to complete the following actions
 * Edit the [settings.py](projects/settings.py) file to include the app in INSTALLED_APPS
