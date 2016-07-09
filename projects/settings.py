@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     #include your apps here
+    'hisab',
 ]
 
 MIDDLEWARE_CLASSES = [

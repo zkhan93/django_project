@@ -19,4 +19,5 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     #add your apps urls here
+    url(r'^hisab/',include('hisab.urls')),
 ]

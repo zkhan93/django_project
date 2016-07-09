@@ -1,4 +1,3 @@
-venv/
 *.egg-info
 *.pot
 *.py[co]
@@ -8,12 +7,12 @@ dist/
 docs/_build/
 docs/locale/
 node_modules/
-static/components/
 tests/coverage_html/
 tests/.coverage
 build/
 tests/report/
+static/components/
+.sass-cache/
 *.css
 *.css.map
-.sass-cache/
-db.sqlite3
+*.*~
