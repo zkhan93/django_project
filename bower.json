@@ -18,6 +18,5 @@
   "dependencies": {
     "bootstrap": "^3.3.6",
     "font-awesome": "fontawesome#^4.6.2",
-    "eonasdan-bootstrap-datetimepicker": "^4.17.37"
   }
 }
