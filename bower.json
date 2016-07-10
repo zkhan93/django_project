@@ -1,9 +1,9 @@
 {
-  "name": "ceridian_manager",
+  "name": "projects",
   "authors": [
     "Zeeshan Khan <zkhan1093@gmail.com>"
   ],
-  "description": "to manage ceridian passwords and account status",
+  "description": "Django projects",
   "main": "",
   "license": "MIT",
   "homepage": "",
