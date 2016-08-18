@@ -13,7 +13,6 @@ tests/coverage_html/
 tests/.coverage
 build/
 tests/report/
-*.css
 *.css.map
 .sass-cache/
 db.sqlite3
